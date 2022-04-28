@@ -1,8 +1,10 @@
 title: <p align="center"> Tamal Karmakar </p>
 logo: /assets/img/logo.jpg
 description: 
-<p align="center">
-<a href ="https://www.linkedin.com/in/tamal-karmakar/">LinkedIn</a>
-<br>
-I'm learning Machine Learning & AI from upgrad, this page is created as part of the course. And will be updated with more details with learning. 
+  <p align="center">
+  <a href ="https://www.linkedin.com/in/tamal-karmakar/">LinkedIn</a>
+  <br>
+  I'm learning Machine Learning & AI from upgrad, this page is created as part of the course. And will be updated with more details with learning. 
+  <br>
+  </p>
 theme: jekyll-theme-minimal
